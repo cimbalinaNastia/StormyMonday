@@ -4,8 +4,6 @@ StormyMonday
 # namedRepo
 desc
 
-desc
-
 # namedRepo
 # namedRepo
 desc
