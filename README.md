@@ -5,6 +5,4 @@ StormyMonday
 desc
 rmyMonday vStormyMondayay vStor
 y vStormyMondayay vStormyMonday
-StormyMonday# StormyMonday StormyMonday StormyMonday vStormyMondayay vStormnday
-StormyMonday
-# namedRepo
+StormyMonday# StormyMonday StormyMonday StormyMonday vStormyMondayay vStormnd
