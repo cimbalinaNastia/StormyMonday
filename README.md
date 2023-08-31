@@ -5,4 +5,4 @@ StormyMonday
 desc
 rmyMonday vStormyMondayay vStor
 y vStormyMondayay vStormyMonday
-StormyMonday# StormyMonday StormyMonday StormyMonday vStormyMondayay vStor
+StormyMonday# StormyMonday StormyMonda
