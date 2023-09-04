@@ -4,5 +4,5 @@ StormyMonday
 # namedRepo
 desc
 rmyMonday vStormyMondayay vStor
-y vStormyMondayay vStormyMonday
+y vStormyMondayay vStormyMon
 StormyMonday# StormyMonday StormyMonda
