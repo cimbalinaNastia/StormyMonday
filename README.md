@@ -2,5 +2,5 @@
 StormyMonday# StormyMonday Stormy
 de
 rmyMonday vStormyMondayay v
-y vStormyMondayay vStormyMon
+y vStormyMondayay vStormyM
 StormyMonday# StormyMonday StormyMonda
