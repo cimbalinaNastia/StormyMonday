@@ -1,6 +1,6 @@
 # StormyMonday StormyMonday StormyMonday vStormyMondayay vStormyMonday
 StormyMonday# StormyMonday Sto
 de
-rmyMonday vStormyMondayay v
+rmyMonday vStormyMonday
 y vStormyMondayay vStormyM
 StormyMonday# StormyMonday StormyMonda
