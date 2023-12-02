@@ -1,8 +1,5 @@
 
-iles[i].id;terter/matda# flutterTest # flutterTes
-          child: Textimport '
-          child: Textimport 'package:al.da# fl
-
+iles[i].id;terter/matda# flutterTest
 iles[i].id;ount_n
           child: Textimport 'package:al.da# fl
 
