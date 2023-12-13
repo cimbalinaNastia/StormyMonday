@@ -1,6 +1,5 @@
 
-ll
-uytj=llllllllllluytj=llllllllllluytj=lllllllllll
+lllllllllll
 88
 99
 65
